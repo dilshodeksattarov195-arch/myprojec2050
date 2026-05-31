@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpync",
+        "uuid": 13513600,
+        "checksum": "3tb7c"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
